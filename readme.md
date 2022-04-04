@@ -57,11 +57,3 @@ x		Jungol_118_디버깅_형성평가3.java
 x		Jungol_119_디버깅_형성평가4.java
 x		Jungol_526_디버깅_자가진단1.java
 x		Jungol_527_디버깅_자가진단2.java
-		
-		
-		
-		
-		
-		
-		
-		
